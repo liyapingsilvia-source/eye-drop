@@ -1,0 +1,5 @@
+{
+  "name": "Eye Drop Text",
+  "description": "A fun tool where text falls from your eyes using real-time face tracking and physics.",
+  "requestFramePermissions": ["camera"]
+}
